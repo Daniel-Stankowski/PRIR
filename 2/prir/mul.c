@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <time.h>
+//Daniel Stańkowski i Michał Tomczyk
 
 //#define DEBUG
 #define TIME_MEASURE
