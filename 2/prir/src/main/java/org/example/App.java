@@ -4,7 +4,7 @@ package org.example;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Arrays;
-
+//Daniel Stańkowski i Michał Tomczyk
 public class App {
     public static void main( String[] args ) {
         String aFile = ".\\A.txt";
